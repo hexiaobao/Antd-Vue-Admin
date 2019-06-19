@@ -1,6 +1,6 @@
 # antd-vue-admin
 
- 基于 Ant design vue的管理端模板
+ 基于 [Ant design Vue](https://vue.ant.design) 的管理端模板
 
 ## Project setup
 ```
