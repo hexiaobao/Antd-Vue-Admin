@@ -1,2 +1,36 @@
-# Antd-Vue-Admin
-基于ant design vue的后台管理端模板
+# antd-vue-admin
+
+ 基于 Ant design vue的管理端模板
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Run your unit tests
+```
+npm run test:unit
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
